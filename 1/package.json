@@ -1,0 +1,15 @@
+{
+  "name": "dempapp",
+  "version": "1.0.0",
+  "description": "demo application for angular js 5 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phani",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.3.2",
+    "zone.js": "^0.8.26"
+  }
+}
